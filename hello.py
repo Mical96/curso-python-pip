@@ -1,2 +1,2 @@
 
-print("hola desde mi maquina Linux")
+print("hola desde mi maquina")
