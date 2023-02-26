@@ -1,3 +1,2 @@
-"esta carpeta está en linux"
 
-print("hola desde mi maquina")
+print("hola desde mi maquina Linux")
