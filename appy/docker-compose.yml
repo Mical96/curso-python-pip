@@ -1,0 +1,7 @@
+services:   
+   appy-csv:
+      build: 
+         context: .
+         dockerfile: Dockerfile
+      volumes:
+         - .:/appy
